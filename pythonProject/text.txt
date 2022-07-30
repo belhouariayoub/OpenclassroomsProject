@@ -1,0 +1,2 @@
+ayoub.local,192.168.1.1
+ismail.local,192.77.11.9
